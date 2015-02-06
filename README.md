@@ -16,4 +16,4 @@ USAGE:
 - Press the button "Perform Asynchronous Call" as fast as possible to see the queuing feature and executing requests.
 - Responses will arrive asynchronously.
 
-
+It is possible to increase the number of concurrent requests and queue size by changing some parameters in the "ajaxi-lib.js" file.
